@@ -1,0 +1,7 @@
+Playlists feature:
+- the user should be able to create/delete/view playlists. This feature is available for registered users only.
+- the user may have several playlists
+- the user should be able to add/remove songs to/from the playlist
+- the user can add only existing songs (e.g. songs that available on Dynamusic site)
+- the ability to add several songs
+- the ability to remove several songs
